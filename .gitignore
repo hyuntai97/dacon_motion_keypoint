@@ -1,7 +1,7 @@
 # dataset 
 /test_imgs
 /train_imgs
-*.csv
+
 
 # zip
 *.zip
